@@ -1,0 +1,8 @@
+*.class
+/.gradle/
+bin/
+/build/
+/out/
+/.idea/
+config/
+**/*.log

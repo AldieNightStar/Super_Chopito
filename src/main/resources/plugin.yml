@@ -1,0 +1,10 @@
+main: haxidenti.schopito.Main
+name: Super_Chopito
+version: 1.0
+author: HaxiDenti
+description: Super_Chopito plugin
+api-version: 1.13
+depend: [Chopito]
+commands:
+  super_chopito:
+    description: Gives a super chopito axe
